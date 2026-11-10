@@ -1,0 +1,2 @@
+#lectura fichero
+#escritura fichero
